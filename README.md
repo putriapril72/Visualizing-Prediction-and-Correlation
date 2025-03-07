@@ -34,3 +34,7 @@ Visualizing what has been predicted on the dataset, this prediction is divided i
 
 ### Plot the Correlation between each categories
  to determine the correlation between variables in a data set. This heatmap can help identify variables that are strongly correlated or contradictory.
+
+ ## Insight 
+know more clearly what categories or types of people have survived in relation to existing data.
+analyzing by finding out whether there is a relationship between each category to see and become an insight that in the future it can be an evaluation of categories with these related variables that have a better chance of surviving.
